@@ -1,0 +1,133 @@
+[
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Rubber bands",
+        "Units": 10,
+        "UnitPrice": 10.0,
+        "Discount": "12% off",
+        "TotalPrice": 88.0
+      }
+    ],
+    "Total": 88.0
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Rubber bands",
+        "Units": 10,
+        "UnitPrice": 10.0,
+        "Discount": "12% off",
+        "TotalPrice": 88.0
+      },
+      {
+        "ProductName": "Pepto Bismol",
+        "Units": 10,
+        "UnitPrice": 4.88,
+        "Discount": "Buy 1 get 1 free",
+        "TotalPrice": 24.4
+      }
+    ],
+    "Total": 112.4
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Bananas",
+        "Units": 10,
+        "UnitPrice": 1.25,
+        "Discount": "",
+        "TotalPrice": 12.5
+      },
+      {
+        "ProductName": "Rubber bands",
+        "Units": 10,
+        "UnitPrice": 10.0,
+        "Discount": "12% off",
+        "TotalPrice": 88.0
+      },
+      {
+        "ProductName": "Pepto Bismol",
+        "Units": 4,
+        "UnitPrice": 4.88,
+        "Discount": "Buy 1 get 1 free",
+        "TotalPrice": 9.76
+      }
+    ],
+    "Total": 110.26
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [],
+    "Total": 0.0
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Bananas",
+        "Units": 10,
+        "UnitPrice": 1.25,
+        "Discount": "",
+        "TotalPrice": 12.5
+      },
+      {
+        "ProductName": "Pepto Bismol",
+        "Units": 10,
+        "UnitPrice": 4.88,
+        "Discount": "Buy 2 get 2 free",
+        "TotalPrice": 24.4
+      },
+      {
+        "ProductName": "Rubber bands",
+        "Units": 10,
+        "UnitPrice": 10.0,
+        "Discount": "10% off",
+        "TotalPrice": 90.0
+      }
+    ],
+    "Total": 126.9
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Rubber bands",
+        "Units": 5,
+        "UnitPrice": 10.0,
+        "Discount": "10% off",
+        "TotalPrice": 45.0
+      }
+    ],
+    "Total": 45.0
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Rubber bands",
+        "Units": 2,
+        "UnitPrice": 10.0,
+        "Discount": "10% off",
+        "TotalPrice": 18.0
+      }
+    ],
+    "Total": 18.0
+  },
+  {
+    "Date": "2020-09-29T00:00:00-05:00",
+    "LineItems": [
+      {
+        "ProductName": "Pepto Bismol",
+        "Units": 2,
+        "UnitPrice": 4.88,
+        "Discount": "Buy 2 get 2 free",
+        "TotalPrice": 4.88
+      }
+    ],
+    "Total": 4.88
+  }
+]

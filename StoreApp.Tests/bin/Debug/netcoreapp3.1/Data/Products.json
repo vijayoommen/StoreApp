@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Sku": "1245",
+    "Name": "Bananas",
+    "UnitPrice": 1.25,
+    "Promotion": {
+      "Name": "None",
+      "PromotionType": 0
+    }
+  },
+  {
+    "Id": 2,
+    "Sku": "839",
+    "Name": "Rubber bands",
+    "UnitPrice": 10.0,
+    "Promotion": {
+      "Name": "Percentage",
+      "PromotionType": 1
+    }
+  },
+  {
+    "Id": 3,
+    "Sku": "99999",
+    "Name": "Pepto Bismol",
+    "UnitPrice": 4.88,
+    "Promotion": {
+      "Buy": 1,
+      "Get": 1,
+      "Name": "Bogo",
+      "PromotionType": 2
+    }
+  }
+]
